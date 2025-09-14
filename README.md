@@ -457,8 +457,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Milo</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/princemaple">
                     <img src="https://avatars.githubusercontent.com/u/1329716?v=4" width="90;" alt="princemaple"/>
@@ -488,12 +486,21 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/govmoe">
+                    <img src="https://avatars.githubusercontent.com/u/51030215?v=4" width="90;" alt="govmoe"/>
+                    <br />
+                    <sub><b>hatch_blod</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/houhoz">
                     <img src="https://avatars.githubusercontent.com/u/19684376?v=4" width="90;" alt="houhoz"/>
                     <br />
                     <sub><b>Hyzhao</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/lakca">
                     <img src="https://avatars.githubusercontent.com/u/16255922?v=4" width="90;" alt="lakca"/>
@@ -501,8 +508,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Null</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/liudonghua123">
                     <img src="https://avatars.githubusercontent.com/u/2276718?v=4" width="90;" alt="liudonghua123"/>
@@ -510,8 +515,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Liudonghua</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/liusishan">
                     <img src="https://avatars.githubusercontent.com/u/33129823?v=4" width="90;" alt="liusishan"/>
