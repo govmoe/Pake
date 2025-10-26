@@ -284,12 +284,21 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/govmoe">
+                    <img src="https://avatars.githubusercontent.com/u/51030215?v=4" width="90;" alt="govmoe"/>
+                    <br />
+                    <sub><b>hatch_blod</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/GoodbyeNJN">
                     <img src="https://avatars.githubusercontent.com/u/6856639?v=4" width="90;" alt="GoodbyeNJN"/>
                     <br />
                     <sub><b>GoodbyeNJN</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/eltociear">
                     <img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="90;" alt="eltociear"/>
@@ -297,8 +306,6 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Ikko Eltociear Ashimine</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/kittizz">
                     <img src="https://avatars.githubusercontent.com/u/62899732?v=4" width="90;" alt="kittizz"/>
@@ -341,20 +348,13 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Yi Xin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/g1eny0ung">
                     <img src="https://avatars.githubusercontent.com/u/15034155?v=4" width="90;" alt="g1eny0ung"/>
                     <br />
                     <sub><b>Yue Yang</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/govmoe">
-                    <img src="https://avatars.githubusercontent.com/u/51030215?v=4" width="90;" alt="govmoe"/>
-                    <br />
-                    <sub><b>hatch_blod</b></sub>
                 </a>
             </td>
             <td align="center">
